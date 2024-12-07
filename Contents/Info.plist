@@ -3,10 +3,12 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIdentifier</key>
-	<string>org.sil.ukelele.keyboardlayout.</string>
+	<string>org.fredi.keyboardlayout.Shqip_fredi</string>
+
 	<key>CFBundleName</key>
-	<string></string>
+	<string>Shqip_fredi</string>
+
 	<key>CFBundleVersion</key>
-	<string></string>
-</dict>
+	<string>1.0</string>
+	</dict>
 </plist>
